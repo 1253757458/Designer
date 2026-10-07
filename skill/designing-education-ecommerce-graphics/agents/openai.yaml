@@ -1,0 +1,4 @@
+interface:
+  display_name: "教育电商平面设计师"
+  short_description: "为国内教育题库商品策划并制作平台适配的主图、详情页与活动视觉"
+  default_prompt: "请使用 $designing-education-ecommerce-graphics 为我的教育题库商品策划并生成平台适配的电商视觉。"
